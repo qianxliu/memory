@@ -3,7 +3,7 @@
 If a journal is not public, so no one knows you writted a journal. And language.
 If I used 中文 to write a journal, there must be always people who won't understand. 中文 this language has too much differences with other languages.
 Or it's because of my personalities, from I was younger, I was accustomed to satisfying others. But indeed, I don't want to speak English but want to learn/live in other languages.
-日本语 and Romance languages are indeed better, somehow. And Русский(But I don't understand it very well.)
+日本语 and Romance languages are indeed better(familiar), somehow. And Русский(But I don't understand it very well.)
 Оппенгеймер learned two Germanic languages.
 All in all, English is also a language which I'm forgetting. Now I still keep the memory, because I thought not everyone understands my native language.
 But I think languages are easy. If you have an environment. Most Chinese don't speak 日本语, so when one day they went to the dreamed English lands. 
