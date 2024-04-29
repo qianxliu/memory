@@ -21,7 +21,7 @@ Exams are not everything. If you failed, you will find originally a math 1st tak
 For him, only math exams are the grades. Maybe he got a high score on a non math subject, but somehow he didn't really understand that. Maybe it's called fate? But fate is in his hands.
 
 Maybe everyone should fail on the subjects they didn't really study. And keep on taking that. But the selection is existing in the education. So that's a problem.
-You can get the really high scores without understanding subjects. You can understand the subjects without getting really high scores.
+You can get the really high scores without understanding subjects(In some cases in some countries, maybe you just need a good relation). You can understand the subjects without getting really high scores.
 You also can understand the two different subjects. But you are not such a person. And, the understanding of one totally different subject may harm the original understanding.
 The key problem is if you did this, then you are an Exception. So people can not evaluate you by common criterions.
 
