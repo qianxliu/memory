@@ -4,16 +4,15 @@ If you don't seek the dominance, you must not care the politics(so maybe politic
 
 So you probably seek to be a 
 ```
-switch(love):
+switch(directions):
 {
-  mathematic(center?):
-    Rigorous, Scientific, Technocratic
+  mathematic(center and left?):
     break;
   economics(right?):
-    Money first, calculating
+    money first, calculating
     break;
-  social influence(right?):
-    Clown
+  social influencer(right?):
+    clown
     break;
   law(centre-left?):
     native social rules
