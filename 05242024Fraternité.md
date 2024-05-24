@@ -16,6 +16,7 @@
 
 ## Germanic, Slavic and Others 
 
+- Dutch: Broederschap/broer
 - Danish: Broderskab/bror
 - Swedish: Broderskap/bror
 - German: Brüderlichkeit/Bruder
@@ -23,6 +24,7 @@
 - Russian: Братство/Брат(Bratstvo/brat)
 - Polish: Braterstwo/brat
 - Norwegian: Brorskap/bror
+- Hungarian: Testvériség/Testvér
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
-## (DeepL) Arabic: al'ukhua can be Brother or Fraternity（الأخوة）, don't know Hebrew
+## (DeepL) Arabic: al'ukhua can be Brothers or Fraternity（الأخوة）, don't know Hebrew
