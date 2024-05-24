@@ -14,7 +14,7 @@
 - Italian: fraternità/fratello
 - Romanian: fraternitate/frate
 
-## Germanic, Slavic and Others 
+## Germanic, Slavic, Baltic, Uralic and Greek
 
 - Dutch: Broederschap/broer
 - Danish: Broderskab/bror
@@ -30,4 +30,6 @@
 - Lithuanian: brolija/brolis
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
-## Arabic: al'ukhua can be Brothers or Fraternity（الأخوة）
+## Arabic
+
+- Arabic: al'ukhua can be Brothers or Fraternity（الأخوة）
