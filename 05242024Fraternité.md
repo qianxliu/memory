@@ -8,18 +8,19 @@
 
 ## Latin
 
+- Korean: 협동 단체(형제)
 - Romanian: fraternitate(frate)
 - French: fraternité(frère)
 - Italian: fraternità(fratello)
 
 ## Germanic and Slavic
 
-- Norwegian: Brorskap(bror)
-- Russian: братство/Bratstvo(брат/brat)
+- German: Brüderlichkeit(Bruder)
 - Swedish: Broderskap(bror)
 - Polish: Braterstwo(brat)
 - Danish: Broderskab(bror)
-- German: Brüderlichkeit(Bruder)
+- Norwegian: Brorskap(bror)
+- Russian: братство/Bratstvo(брат/brat)
 
 # Finnish: Veljeys(Veli)
 
