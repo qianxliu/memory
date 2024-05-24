@@ -1,33 +1,27 @@
-# Fraternité(Universal love)(Common goods)
+# Fraternity/Brother
 
-- Chinese: 博爱
-- Japanese: 友愛
-- Korean: 협동 단체
+- Chinese: 博爱(兄弟)
+- Japanese: 友愛(兄弟)
+- Spanish: fraternidad(hermano)
+- Portuguese: fraternidade(irmão)
+- Irish: Bráithreachas(deartháir)
 
-# Fraternité(Common goods)
+## Latin
 
-Frater has the meaning "brother" in Latin, not like CJK. In CJK, Fraternité is never relate with brothers but universal love.
+- Romanian: fraternitate(frate)
+- French: fraternité(frère)
+- Italian: fraternità(fratello)
 
-- French: fraternité
-- Italian: fraternità
-- Spanish: fraternidad
-- Portuguese: fraternidade
-- Romanian: fraternitate
+## Germanic and Slavic
 
-# Fraternité(Brother goods)
+- German: Brüderlichkeit(Bruder)
+- Danish: Broderskab(bror)
+- Russian: братство/Bratstvo(брат/brat)
+- Polish: Braterstwo(brat)
+- Norwegian: Brorskap(bror)
 
-- German: Brüderlichkeit
-- Danish: Broderskab
-- Russian: братство(Bratstvo)
-- Polish: Braterstwo
-- Norwegian: Brorskap
-- Irish: Bráithreachas
+# Finnish: Veljeys(Veli)
 
-# Finnish: Veljeys
+# Arabic: al'ukhua('akh)
 
-# Arabic: al'ukhua(الأخوة)
-
-# Greek: adelfótita(αδελφότητα)
-
-
-Because my knowledge about language is limited, I can not know it's for brothers or universal loves.
+# Greek: adelfótita/αδελφότητα(adelfós/αδελφός)
