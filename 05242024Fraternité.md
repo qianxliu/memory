@@ -20,12 +20,12 @@
 - Danish: Broderskab/bror
 - Swedish: Broderskap/bror
 - German: Brüderlichkeit/Bruder
+- Estonian: Vennaskond/vend
+- Finnish: Veljeys/Veli
+- Norwegian: Brorskap/bror
 - Russian: Братство/Брат(Bratstvo/brat)
 - Polish: Braterstwo/brat
-- Estonian: Vennaskond/vend
-- Norwegian: Brorskap/bror
 - Hungarian: Testvériség/Testvér
-- Finnish: Veljeys/Veli
 - Lithuanian: brolija/brolis
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
