@@ -11,8 +11,8 @@
 
 - Korean: 협동 단체/형제
 - French: fraternité/frère
-- Romanian: fraternitate/frate
 - Italian: fraternità/fratello
+- Romanian: fraternitate/frate
 
 ## Germanic, Slavic and Others 
 
