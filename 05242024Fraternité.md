@@ -19,10 +19,10 @@
 - Danish: Broderskab/bror
 - Swedish: Broderskap/bror
 - German: Brüderlichkeit/Bruder
-- Russian: братство/брат(Bratstvo/brat)
+- Finnish: Veljeys/Veli
+- Russian: Братство/Брат(Bratstvo/brat)
 - Polish: Braterstwo/brat
 - Norwegian: Brorskap/bror
-- Finnish: Veljeys/Veli
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
-## Arabic(RTL is different): al'ukhua/'akh
+## (DeepL) Arabic: al'ukhua can be Brother or Fraternity（الأخوة）
