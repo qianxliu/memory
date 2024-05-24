@@ -25,6 +25,7 @@
 - Norwegian: Brorskap/bror
 - Russian: Братство/Брат(Bratstvo/brat)
 - Polish: Braterstwo/brat
+- Czech:  Bratrství/bratr
 - Hungarian: Testvériség/Testvér
 - Lithuanian: brolija/brolis
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
