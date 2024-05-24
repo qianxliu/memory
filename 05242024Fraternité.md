@@ -14,11 +14,12 @@
 
 ## Germanic and Slavic
 
-- German: Brüderlichkeit(Bruder)
-- Danish: Broderskab(bror)
-- Russian: братство/Bratstvo(брат/brat)
-- Polish: Braterstwo(brat)
 - Norwegian: Brorskap(bror)
+- Russian: братство/Bratstvo(брат/brat)
+- Swedish: Broderskap(bror)
+- Polish: Braterstwo(brat)
+- Danish: Broderskab(bror)
+- German: Brüderlichkeit(Bruder)
 
 # Finnish: Veljeys(Veli)
 
