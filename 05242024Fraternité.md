@@ -10,21 +10,19 @@
 ## Latin
 
 - Korean: 협동 단체/형제
-- Romanian: fraternitate/frate
 - French: fraternité/frère
+- Romanian: fraternitate/frate
 - Italian: fraternità/fratello
 
-## Germanic and Slavic
+## Germanic, Slavic and Others 
 
+- Danish: Broderskab/bror
+- Swedish: Broderskap/bror
 - German: Brüderlichkeit/Bruder
 - Russian: братство/брат(Bratstvo/brat)
-- Danish: Broderskab/bror
 - Polish: Braterstwo/brat
 - Norwegian: Brorskap/bror
-- Swedish: Broderskap/bror
+- Finnish: Veljeys/Veli
+- Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
-# Finnish: Veljeys/Veli
-
-# Arabic: al'ukhua/'akh
-
-# Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
+## Arabic(different language systems): al'ukhua/'akh
