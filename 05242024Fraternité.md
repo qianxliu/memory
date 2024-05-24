@@ -27,4 +27,4 @@
 - Hungarian: Testvériség/Testvér
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
-## (DeepL) Arabic: al'ukhua can be Brothers or Fraternity（الأخوة）, don't know Hebrew
+## Arabic: al'ukhua can be Brothers or Fraternity（الأخوة）
