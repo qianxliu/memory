@@ -25,7 +25,7 @@
 - Polish: Braterstwo/brat
 - Norwegian: Brorskap/bror
 - Hungarian: Testvériség/Testvér
-- Lithuanian: brolija/broliai
+- Lithuanian: brolija/brolis
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
 ## Arabic: al'ukhua can be Brothers or Fraternity（الأخوة）
