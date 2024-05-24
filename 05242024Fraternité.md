@@ -25,4 +25,4 @@
 - Finnish: Veljeys/Veli
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
-## Arabic(different language systems): al'ukhua/'akh
+## Arabic(RTL is different): al'ukhua/'akh
