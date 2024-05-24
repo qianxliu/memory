@@ -1,7 +1,7 @@
 # Fraternity/Brother
 
-- Chinese: 博爱/兄弟
 - Japanese: 友愛/兄弟
+- Chinese: 博爱/兄弟
 - Catalan: fraternitat/germà
 - Spanish: fraternidad/hermano
 - Portuguese: fraternidade/irmão
@@ -18,9 +18,9 @@
 
 - German: Brüderlichkeit/Bruder
 - Russian: братство/брат(Bratstvo/brat)
+- Danish: Broderskab/bror
 - Polish: Braterstwo/brat
 - Norwegian: Brorskap/bror
-- Danish: Broderskab/bror
 - Swedish: Broderskap/bror
 
 # Finnish: Veljeys/Veli
