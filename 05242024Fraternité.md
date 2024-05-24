@@ -25,4 +25,4 @@
 - Norwegian: Brorskap/bror
 - Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
 
-## (DeepL) Arabic: al'ukhua can be Brother or Fraternity（الأخوة）
+## (DeepL) Arabic: al'ukhua can be Brother or Fraternity（الأخوة）, don't know Hebrew
