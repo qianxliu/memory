@@ -23,13 +23,13 @@
 - Dutch: Broederschap/Broers
 - Russian: Братство/Братья(Bratstvo/Brat'ya)
 - Polish: Braterstwo/Bracia
+- Greek: αδελφότητα/αδερφια(adelfótita/aderfia)
 - German: Brüderlichkeit/Brüder
 - Czech:  Bratrství/Bratři
 - Estonian: Vennaskond/Vennad
 - Hungarian: Testvériség/Testvérek
 - Finnish: Veljeys/Veljet
 - Lithuanian: brolija/broliai
-- Greek: αδελφότητα/αδερφια(adelfótita/aderfia)
 
 ## Arabic
 
