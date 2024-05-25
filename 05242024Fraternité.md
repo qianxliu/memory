@@ -1,34 +1,35 @@
-# Fraternity/Brother
+# Fraternity/Brothers
 
 - Japanese: 友愛/兄弟
 - Chinese: 博爱/兄弟
-- Catalan: fraternitat/germà
-- Spanish: fraternidad/hermano
-- Portuguese: fraternidade/irmão
-- Irish: bráithreachas/deartháir
+- Spanish: fraternidad/hermanos
+- Portuguese: fraternidade/irmãos
+- Irish: bráithreachas/deartháireacha
+- Catalan: fraternitat/germans
 
 ## Latin
 
 - Korean: 협동 단체/형제
-- French: fraternité/frère
-- Italian: fraternità/fratello
-- Romanian: fraternitate/frate
+- French: fraternité/frères
+- Romanian: fraternitate/fratilor
+- Latin: fraternitas/fratres
+- Italian: fraternità/fratelli
 
 ## Germanic, Slavic, Baltic, Uralic and Greek
 
-- Dutch: Broederschap/broer
-- Danish: Broderskab/bror
-- Swedish: Broderskap/bror
-- German: Brüderlichkeit/Bruder
-- Estonian: Vennaskond/vend
-- Finnish: Veljeys/Veli
-- Norwegian: Brorskap/bror
-- Russian: Братство/Брат(Bratstvo/brat)
-- Polish: Braterstwo/brat
-- Czech:  Bratrství/bratr
-- Hungarian: Testvériség/Testvér
-- Lithuanian: brolija/brolis
-- Greek: αδελφότητα/αδελφός(adelfótita/adelfós)
+- Polish: Braterstwo/Bracia
+- Danish: Broderskab/Brødre
+- Swedish: Broderskap/Bröder
+- Norwegian: Brorskap/Brødre
+- Dutch: Broederschap/Broers
+- German: Brüderlichkeit/Brüder
+- Czech:  Bratrství/Bratři
+- Russian: Братство/Братья(Bratstvo/Brat)
+- Estonian: Vennaskond/Vennad
+- Finnish: Veljeys/Veljet
+- Hungarian: Testvériség/Testvérek
+- Lithuanian: brolija/broliai
+- Greek: αδελφότητα/αδερφια(adelfótita/aderfia)
 
 ## Arabic
 
