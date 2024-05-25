@@ -17,17 +17,17 @@
 
 ## Germanic, Slavic, Baltic, Uralic and Greek
 
-- Polish: Braterstwo/Bracia
+- Norwegian: Brorskap/Brødre
 - Danish: Broderskab/Brødre
 - Swedish: Broderskap/Bröder
-- Norwegian: Brorskap/Brødre
 - Dutch: Broederschap/Broers
+- Russian: Братство/Братья(Bratstvo/Brat'ya)
+- Polish: Braterstwo/Bracia
 - German: Brüderlichkeit/Brüder
 - Czech:  Bratrství/Bratři
-- Russian: Братство/Братья(Bratstvo/Brat)
 - Estonian: Vennaskond/Vennad
-- Finnish: Veljeys/Veljet
 - Hungarian: Testvériség/Testvérek
+- Finnish: Veljeys/Veljet
 - Lithuanian: brolija/broliai
 - Greek: αδελφότητα/αδερφια(adelfótita/aderfia)
 
