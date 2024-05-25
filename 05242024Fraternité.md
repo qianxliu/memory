@@ -21,8 +21,8 @@
 - Danish: Broderskab/Brødre
 - Swedish: Broderskap/Bröder
 - Dutch: Broederschap/Broers
-- Russian: Братство/Братья(Bratstvo/Brat'ya)
 - Polish: Braterstwo/Bracia
+- Russian: Братство/Братья(Bratstvo/Brat'ya)
 - Greek: αδελφότητα/αδερφια(adelfótita/aderfia)
 - German: Brüderlichkeit/Brüder
 - Czech:  Bratrství/Bratři
