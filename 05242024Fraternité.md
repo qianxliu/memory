@@ -10,7 +10,7 @@
 - Japanese: 友愛/兄弟
 
 - French: fraternité(philanthropie)/frères
-- Chinese: 博爱/兄弟
+- Chinese: 博爱/兄弟们
 - Spanish: fraternidad(filantropía)/hermanos
 - Portuguese: fraternidade(filantropia)/irmãos
 - Irish: bráithreachas(daonchairdeas)/deartháireacha
