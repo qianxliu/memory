@@ -32,4 +32,4 @@
 
 ## Arabic
 
-- Arabic: al'ukhua can be Brothers or Fraternity（الأخوة）
+- (RTL)Arabic: (LTR)al'ukhua/al'iikhwa(RTL)(الأخوة/الإخوة)
