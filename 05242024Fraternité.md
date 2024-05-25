@@ -1,6 +1,8 @@
-> Google translation, may be wrong at the small languages
+> Google translation, may be wrong at the small languages/different language systems.
+> Actually this title should be Japanese or Chinese
+> Fraternity(universal love) and Brotherhood are totally different in most East Asian countries.
 
-# Fraternity/Brothers
+# 博爱/兄弟（Fraternity(universal love)/Brothers）
 
 - Japanese: 友愛/兄弟
 - Chinese: 博爱/兄弟
@@ -8,10 +10,10 @@
 - Portuguese: fraternidade/irmãos
 - Irish: bráithreachas/deartháireacha
 - Catalan: fraternitat/germans
+- Korean: 협동 단체/형제
 
 ## Latin
 
-- Korean: 협동 단체/형제
 - French: fraternité/frères
 - Romanian: fraternitate/fratilor
 - Latin: fraternitas/fratres
