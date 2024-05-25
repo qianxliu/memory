@@ -4,6 +4,7 @@
 
 # 博爱/兄弟（Fraternity(universal love)/Brothers）
 
+- French: fraternité/frères
 - Japanese: 友愛/兄弟
 - Chinese: 博爱/兄弟
 - Spanish: fraternidad/hermanos
@@ -14,7 +15,6 @@
 
 ## Latin
 
-- French: fraternité/frères
 - Romanian: fraternitate/fratilor
 - Latin: fraternitas/fratres
 - Italian: fraternità/fratelli
