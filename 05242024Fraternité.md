@@ -1,3 +1,5 @@
+> Google translation, may be wrong at the small languages
+
 # Fraternity/Brothers
 
 - Japanese: 友愛/兄弟
