@@ -16,6 +16,7 @@
 - Catalan: fraternitat/germans
 - Korean: 협동 단체/형제
 - French: fraternité/frères
+- German: Menschenliebe/Brüder
 
 ## Latin
 
