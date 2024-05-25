@@ -15,8 +15,8 @@
 - Irish: bráithreachas/deartháireacha
 - Catalan: fraternitat/germans
 - Korean: 협동 단체/형제
+- German: Menschenliebe(Nächstenliebe)/Brüder
 - French: fraternité/frères
-- German: Menschenliebe/Brüder
 
 ## Latin
 
