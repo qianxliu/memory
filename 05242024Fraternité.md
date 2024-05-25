@@ -30,6 +30,7 @@
 - Hungarian: Testvériség/Testvérek
 - Finnish: Veljeys/Veljet
 - Lithuanian: brolija/broliai
+- Latvian: Brālība/Brāļi
 
 ## Arabic
 
