@@ -2,7 +2,9 @@
 > Actually this title should be Japanese or Chinese
 > Fraternity(universal love) and Brotherhood are totally different in most East Asian countries.
 
-# 博爱/兄弟（Fraternity(universal love)/Brothers）
+# Fraternité: Lien existant entre personnes considérées comme membres de la famille humaine ; sentiment profond de ce lien.
+
+# 博爱/兄弟（Fraternité(universal love)/Brothers）
 
 - French: fraternité/frères
 - Japanese: 友愛/兄弟
