@@ -20,9 +20,3 @@
 
 - English: fraternity(philanthropy)/brothers
 - Irish: bráithreachas(daonchairdeas)/deartháireacha
-
-
-
-This is normal. Such as Chinese, said the "国" like France, Germany, Korea, UK and US. But in English, they're (UK, US), France(Seems like France called it France), Germany, China.
-
-The regrets are Chinese don't use the same words for Japan, Spanish, Portugul and Ireland.
